@@ -1,9 +1,11 @@
 ## Typescript-algo
 
 Executing tests of my answer should:
-Calculate annual salaries.
-Find min and max salaries.
-Display the results.
+```
+- Calculate annual salaries.
+- Find min and max salaries.
+- Display the results.
+```
 
 ## To Execute Test Follow Steps:
 
@@ -11,19 +13,19 @@ Display the results.
 
 # Step 2: Install Dependencies
 
-```
+```bash
 npm install
 ```
 
 # Step 3: Compile TypeScript
 
-```
+```bash
 tsc
 ```
 
 # Step 4: Run the JavaScript Code
 
-```
+```bash
 node dist/salaryCalculator.js
 ```
 
