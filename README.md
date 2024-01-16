@@ -30,4 +30,4 @@ node dist/salaryCalculator.js
 ```
 
 # Additional Note
-The provided code assumes a specific structure for your TypeScript files and uses the dist directory for compiled JavaScript files. If you change the structure, make sure to adjust the paths accordingly.
+This project foolows a specific structure for TypeScript files and uses the dist directory for compiled JavaScript files. If you change the structure, make sure to adjust the paths accordingly.
